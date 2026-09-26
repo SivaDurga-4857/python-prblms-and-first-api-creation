@@ -34,7 +34,7 @@ def divide_numbers(a: int,b: int):
     return {
         "number1": a,
         "number2": b,
-        "result": a % b
+        "result": a=b,b=a
     }
     
     
